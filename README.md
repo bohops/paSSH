@@ -25,8 +25,11 @@ Example Output
 root@zzzz:~/paSSH# python paSSH.py -k id_rsa_example -p 22
 
 ===================== paSSH [SSH Password Revealer] =====================
+
 [*] Connection Attempt: user= froo | passwd= vslfnhslkfnh
+
 [*] Connection Attempt: user= froo | passwd= nslgkdgknsl
+
 [*] Connection Attempt: user= froo | passwd= lsgnslgsekbnlb
 
 
